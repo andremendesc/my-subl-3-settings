@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"Phpcs",
+		"TerminalView",
+		"Xdebug Client"
+	]
+}
