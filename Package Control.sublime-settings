@@ -5,14 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"All Autocomplete",
 		"Emmet",
 		"Git",
 		"GitGutter",
 		"Package Control",
 		"PHP Companion",
-		"PHP Completions Kit",
 		"Phpcs",
+		"TabNine",
 		"TerminalView",
 		"Xdebug Client"
 	]
